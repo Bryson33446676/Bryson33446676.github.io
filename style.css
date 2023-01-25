@@ -23,6 +23,8 @@ h1 {
     color: rgb(235, 27, 27);
     flex: 1;
     margin: 0;
+    font-family: fantasy;
+    font-size: 75px;
 }
 #nav-ul {
     list-style-image: none;
@@ -60,4 +62,6 @@ main {
 }
 h2, h3 {
     margin: 0px;
+    font-family: cursive;
+    font-size: 40px;
 }
