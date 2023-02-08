@@ -48,18 +48,55 @@ $(function () {
     
     
         
-    createCollectable("pusss", 1300, 400) ;
+    createCollectable("pusss", 1300, 100) ;
     createCollectable("pusss", 1200, 400) ;
     createCollectable("pusss", 1100, 400) ;
     createCollectable("pusss", 1000, 400) ;
     createCollectable("pusss", 900, 400) ;
     createCollectable("pusss", 800, 400) ;
     createCollectable("pusss", 700, 400) ;
-    createCollectable("pusss", 600, 400) ;
+    createCollectable("pusss", 600, 100) ;
     createCollectable("pusss", 500, 400) ;
     createCollectable("pusss", 400, 400) ;
     createCollectable("pusss", 300, 400) ;
-    createCollectable("pusss",200, 400) ;
+    createCollectable("pusss",200, 100) ;
+    createCollectable("shrekk",250, 400) ;
+    createCollectable("shrekk",350, 400) ;
+    createCollectable("shrekk",450, 100) ;
+    createCollectable("shrekk",550, 400) ;
+    createCollectable("shrekk",650, 400) ;
+    createCollectable("shrekk",750, 100) ;
+    createCollectable("shrekk",850, 100) ;
+    createCollectable("shrekk",950, 400) ;
+    createCollectable("shrekk",1050, 400) ;
+    createCollectable("shrekk",1150, 100) ;
+
+    createCollectable("shrekk",1250, 400) ;
+    createCollectable("shrekk",1350, 400) ;
+    createCollectable("shrekk",1450, 400) ;
+    createCollectable("shrekk",1550, 100) ;
+    createCollectable("shrekk",270, 100) ;
+    createCollectable("shrekk",370, 400) ;
+    createCollectable("shrekk",470, 400) ;
+    createCollectable("shrekk",580, 100) ;
+    createCollectable("shrekk",680, 400) ;
+    createCollectable("shrekk",780, 400) ;
+
+    createCollectable("shrekk",880, 400) ;
+    createCollectable("shrekk",980, 100) ;
+    createCollectable("shrekk",1180, 400) ;
+    createCollectable("donkk",50, 400) ;
+    createCollectable("donkk",120, 400) ;
+    createCollectable("donkk",150, 400) ;
+    createCollectable("donkk",25, 400) ;
+    createCollectable("donkk",560, 400) ;
+    createCollectable("donkk",780, 400) ;
+    createCollectable("donkk",673, 400) ;
+    createCollectable("donkk",538, 400) ;
+    createCollectable("donkk",1246, 400) ;
+    createCollectable("donkk",478, 400) ;
+    createCollectable("donkk",987, 400) ;
+
 
     
     // TODO 3

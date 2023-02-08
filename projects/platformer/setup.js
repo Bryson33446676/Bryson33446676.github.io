@@ -92,7 +92,7 @@ var collectableList = {
   database: { image: "images/collectables/database.png" },
   diamond: { image: "images/collectables/diamond-head.png" },
   grace: { image: "images/collectables/grace-head.png" },
-  kennedi: { image: "images/collectables/kennedi-head.png" },
-  max: { image: "images/collectables/max-head.png" },
+  donkk: { image: "images/collectables/donkk.png" },
+  shrekk: { image: "images/collectables/shrekk.png" },
   pusss: { image: "images/collectables/pusss.png" },
 };
