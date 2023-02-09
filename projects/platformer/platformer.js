@@ -96,6 +96,15 @@ $(function () {
     createCollectable("donkk",1246, 400) ;
     createCollectable("donkk",478, 400) ;
     createCollectable("donkk",987, 400) ;
+    createCollectable("Luke",468, 400) ;
+    createCollectable("Luke",242, 400) ;
+    createCollectable("Luke",113, 400) ;
+    createCollectable("Luke",983, 400) ; 
+    createCollectable("Luke",322, 400) ;
+    createCollectable("Luke",258, 400) ;
+    createCollectable("Luke",824, 400) ;
+    createCollectable("Luke",190, 400) ;
+    createCollectable("Luke",725, 400) ;
 
 
     
@@ -109,9 +118,9 @@ $(function () {
 
 
 
-    createCannon("left", 500, 1) ;
-    createCannon("top", 500, 10) ;
-    createCannon("top", 1000, 5) ;
+    createCannon("left", 500, 1000) ;
+    createCannon("top", 500, 1000) ;
+    createCannon("top", 1000, 1000) ;
     
     
 
